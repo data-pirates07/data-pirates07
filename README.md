@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A passionate frontend developer and Python developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F15637256-coding&psig=AOvVaw3RiJSojVrGqeH_O_OLgaPL&ust=1681122481938000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPimwLbLnP4CFQAAAAAdAAAAABAe">
+<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=data-pirates07&label=Profile%20views&color=0e75b6&style=flat" alt="data-pirates07" /> </p>
 
@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/data-pirates07?tab=repositories](https://github.com/data-pirates07?tab=repositories)
 
-- 💬 Ask me about **AI,ML & REACTS**
+- 💬 Ask me about **PYTHON, SQL, FRONTEND WEB DEV**
 
 - 📫 How to reach me **d.abhishekyadav2004@gmail.com**
 
-- ⚡ Fun fact **I am sigma 😎**
+- ⚡ fact **I am sigma 😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
